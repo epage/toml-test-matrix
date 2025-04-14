@@ -103,9 +103,9 @@ checksum = "3a8241f3ebb85c056b509d4327ad0358fbbba6ffb340bf388f26350aeda225b1"
 
 [[package]]
 name = "boml"
-version = "0.3.1"
+version = "1.0.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "85fdb93f04c73bff54305fa437ffea5449c41edcaadfe882f35836206b166ac5"
+checksum = "ddd269308a2e151db5ed03aa9d792450f355f33083be0c9d961977edfe1dd224"
 
 [[package]]
 name = "bstr"
